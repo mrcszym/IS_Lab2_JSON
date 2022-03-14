@@ -1,0 +1,11 @@
+paths:
+  source_folder: 'Data/'
+  json_source_file: 'data.json'
+  json_destination_file: 'data_mod2.json'
+  yaml_destination_file: 'data_ymod2.yaml'
+yaml_serialize_from: 'object'
+selected_columns: 'Kod_TERYT,Województwo,Powiat'
+serialize: True
+serialize_only_selected: True
+additional_operations: ''
+first_convert_to: 'yaml'
